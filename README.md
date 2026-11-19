@@ -101,3 +101,4 @@ No começo do script do HTML:
 ## Créditos
 
 Programa Computadores para Inclusão, Ministério das Comunicações, Governo Federal. Conteúdo das perguntas: equipe do programa.
+<span class="credito">Desenvolvido por: Victor A. Lêla © 2026</span>
